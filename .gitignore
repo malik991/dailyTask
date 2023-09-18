@@ -1,2 +1,4 @@
 #don't want to upload
 node_modules
+#json.lock
+package-lock.json
